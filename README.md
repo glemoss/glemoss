@@ -1,7 +1,7 @@
 ## Hello, Im Gabriel 👋
 Software developer with experience in mobile and web development.
 
-- 🔨 Toolbox: React, Next, Flutter, Javascript, Typescript, Node, Docker and Git.
+- 🔨 Toolbox: Javascript, Typescript, Node, React, Flutter, Next, Docker and Git.
 
 <div>
   <a href="https://github.com/glemoss">

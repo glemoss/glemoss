@@ -1,4 +1,4 @@
-## Hello, Im Gabriel.
+## Hello, Im Gabriel 👋
 Software developer with experience in mobile and web development.
 
 - 🔨 Toolbox: React, Next, Flutter, Javascript, Typescript, Node, Docker and Git.

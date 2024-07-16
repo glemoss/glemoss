@@ -19,3 +19,9 @@ Software developer with experience in mobile and web development.
   <img align="center" alt="Gabriel-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gabriel-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Gabriel-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+
+##
+
+📬 Feel free to reach me!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20L.%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glemoss/)](https://www.linkedin.com/in/glemoss/)

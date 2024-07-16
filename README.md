@@ -14,3 +14,4 @@ Software developer with experience in mobile and web development.
 📬 Feel free to reach me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20L.%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glemoss/)](https://www.linkedin.com/in/glemoss/)
+[![Email Badge](https://img.shields.io/badge/-glemoss.dev-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:glemoss.dev@gmail.com)](mailto:glemoss.dev@gmail.com)

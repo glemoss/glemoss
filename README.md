@@ -3,8 +3,14 @@ Software developer with experience in mobile and web development.
 
 - 🔨 Toolbox: Javascript, Typescript, Node, React, Flutter, Next, Docker and Git.
 
-![](https://github-readme-stats.vercel.app/api?username=glemoss&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=glemoss&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glemoss&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=glemoss&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true"/></td>
+    </tr>   
+</table>
+</center>
 
 ##
 
